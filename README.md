@@ -16,6 +16,10 @@ curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
 ### Check
 az version
 
+## 3.Login Into Azure
+az login --use-device-code
 
 
-# 1. Databricks Credentials
+
+
+
